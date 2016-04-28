@@ -8,4 +8,4 @@ Burkert afterwork geeks
   - Eteindre et cabler 3v3 pin 1, data pin 3, GND pin 5
   - Démarrer
 - utilisation:
-  - Dans le dossier /sys/devices/w1_bus_master1/10-0008024b67ca se trouves les donnes lues
+  - Dans le dossier /sys/devices/w1_bus_master1/10-0008024b67ca se trouvent les donnes lues
