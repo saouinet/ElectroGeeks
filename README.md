@@ -10,3 +10,7 @@ Burkert afterwork geeks
    - Démarrer
 - utilisation:
    - Dans le dossier /sys/devices/w1_bus_master1/10-0008024b67ca se trouvent les donnes lues
+   - Lancement de node-red
+   - lecture des données de température avec une conversion du text en nombre
+   - repetition toutes les 2 sec 
+   - essai d'écriture dans un fichier 
