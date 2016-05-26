@@ -2,7 +2,7 @@
 Burkert afterwork geeks
 - session du 2016 05 25 :
  - Install party Ubuntu 16.04
-  - machine HP Pavilion
+   - machine HP Pavilion
    - le démarrage à partir de la clé USB ne marche pas.
    - Modifier le BIOS pour démarrer en priorité sur les clés USB
    - Le test d'Ubuntu fonctionne.
