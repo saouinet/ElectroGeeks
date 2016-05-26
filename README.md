@@ -13,7 +13,9 @@ Burkert afterwork geeks
     - créer une partition linux "/" ext4, une partition linux-swap, et 100Mo en FAT32 pour restaurer HP-TOOLS
    - Installation de Ubuntu 
    - Mise à jours
- 
+
+- session du 2016 05 12 :
+ - 
 - session du 2016 04 27 :
 
  Utiliser une Raspberry py pour lire une sonde Dallas
