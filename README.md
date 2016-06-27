@@ -1,5 +1,16 @@
 # ElectroGeeks
 Burkert afterwork geeks
+- session du 2016 06 22:
+ - utiliser la raspberry py comme diaporama et videoplayer
+  - installer fbi:
+sudo apt update
+sudo apt install fbi
+  - se placer dans le dossier des photos
+cd dossier_photos_jpg/
+  - lancer le player 
+fbi -a --noverbose -t 2 *.jpg
+ - pour les videos:
+ 
 - session du 2016 05 25 :
  - Install party Ubuntu 16.04
    - machine HP Pavilion
