@@ -1,5 +1,13 @@
 # ElectroGeeks
 Burkert afterwork geeks
+- session du 2016 08 31:
+ - opértion sur site:
+ Chez JM. mise en route de la récupération des données du compteur électrique.
+ Avec une connection direct de l'UART à la RBpi3.
+ - l'adresse ip est forcée dans /etc/network/interfaces pour eth0.
+ - attention à l'alimentation en 3v3.
+ - désactiver le terminal ttyAMA0 avec les options avancées du port Serie.
+ - utilisation de mosquitto et node-red 
 - session du 2016 06 22:
  - utiliser la raspberry py comme diaporama et videoplayer
   - installer fbi:
