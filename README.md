@@ -1,5 +1,14 @@
 # ElectroGeeks
 Burkert afterwork geeks
+- session du 2016 09 14:
+ - mise en marche d'un ESP2688 (module wifi)
+ - après cablage de l'alimentation (3.3V)  et des communications sur un cable (RS232) FTDI
+ - le terminal communique à 9600 baud !!!
+ - il est possible de "flasher" des programmes 
+ - à voir : https://espressif.com/en/products/hardware/esp8266ex/overview
+ - ce module est utilisé sur une prise connectée : https://www.itead.cc/smart-home/smart-socket-eu.html
+ - et pour les modifier ... http://captain-slow.dk/2016/07/08/itead-smart-socket-wifi-smart-socket-eu-plug-first-impressions/
+ 
 - session du 2016 08 31:
  - opértion sur site:
  Chez JM. mise en route de la récupération des données du compteur électrique.
