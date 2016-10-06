@@ -1,5 +1,18 @@
 # ElectroGeeks
 Burkert afterwork geeks
+- session du 2016 10 05:
+ - il est midi à 17H30 ...
+  - PFe a apporté du matériel midi, un clavier, un ampli ... et toute son experience.
+   - pour les nostalgiques : http://pfeuh.free.fr/shared/odmc/mp3/pot_pourri_videogames.mp3
+  - montage d'une arduino UNO jouant une étrange music.
+  
+- session du 2016 09 21:
+ - Discussions à propos de l'usure de la FLASH des Raspberry pi.
+  - différences entre RAM/FLASH entre Disques dur et SSD (Solid State Drive)
+  - un petit tour avec google et les réponses se clarifies mais il faut lire plusieurs articles ;)
+ - Choix de projets possibles:
+  - Notamment un miroir connecté : http://mirrormirror.tech/t/members-gallery/185 
+  
 - session du 2016 09 14:
  - mise en marche d'un ESP2688 (module wifi)
  - après cablage de l'alimentation (3.3V)  et des communications sur un cable (RS232) FTDI
