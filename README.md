@@ -5,7 +5,8 @@ Burkert afterwork geeks
   - PFe a apporté du matériel midi, un clavier, un ampli ... et toute son experience.
    - pour les nostalgiques : http://pfeuh.free.fr/shared/odmc/mp3/pot_pourri_videogames.mp3
   - montage d'une arduino UNO jouant une étrange music.
-  
+   - merci à PFe
+   - Source : http://www.devsector.ch/cavimaster/2013/12/4-knobs-controleur-midi-arduino/
 - session du 2016 09 21:
  - Discussions à propos de l'usure de la FLASH des Raspberry pi.
   - différences entre RAM/FLASH entre Disques dur et SSD (Solid State Drive)
