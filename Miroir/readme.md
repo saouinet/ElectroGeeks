@@ -1,0 +1,11 @@
+Les outils:
+- installer python3
+ - sudo apt-get install python3
+- installer Cython
+ - pip3 install cython
+- installer kivy
+ - pip3 install kivy
+- installer mosquitto
+ - sudo apt-get install mosquitto
+- installer paho-mqtt
+ - sudo pip3 install paho-mqtt
