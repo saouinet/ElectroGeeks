@@ -1,7 +1,7 @@
 # ElectroGeeks
 Burkert afterwork geeks
 - session du 2016 10 19:
- - un miroir interractif avec python et kivy
+ - un miroir interactif avec python et kivy
  - voir le dossier miroir
  
 - session du 2016 10 05:
