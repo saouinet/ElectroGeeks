@@ -3,7 +3,7 @@ Burkert afterwork geeks
 - session du 2016 11 02:
  - quelques test sur l'utilisation de kivy
  - utilisation de requests en python ou comment naviguer et récupérer des information du net.
- - http://docs.python-requests.org/en/master/
+  - http://docs.python-requests.org/en/master/
  
 - session du 2016 10 19:
  - un miroir interactif avec python et kivy
