@@ -1,11 +1,13 @@
 
-Principes:
+# Principes:
 Mesurer la pluviométrie avec un système à bascule.
 Une carte ESP8266 transmet un message MQTT à un broker mosquitto sur une Raspberry pi chaque basculement (0.73l l/m^2).
 
-Mecanique:
+## Mecanique:
+ - Modèle impression 3D bascule
  - Ampoule reed + Aimant
-Electronique:
+
+## Electronique:
 - Materiel:
  - Raspberry pi zero W
   - Alimentation 5V 2A
@@ -17,7 +19,7 @@ Combien consomme la carte 8266 ?
 Comment réduire la consommation ?
 A quelle fréquence, les pluses sont-ils générés
 
-Logiciel:
+## Logiciel:
  - Outils:
   - Raspberry pi:
    - mosquitto: broker MQTT
